@@ -1,2 +1,2 @@
 # CLDE1120-60
-class repository
+DevOps Fundamental CLDE1120-60 Repository
